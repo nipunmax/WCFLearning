@@ -1,0 +1,6 @@
+C:\Users\USER\documents\visual studio 2013\Projects\StudentRegForm\StudentRegForm\bin\StudentRegForm.dll.config
+C:\Users\USER\documents\visual studio 2013\Projects\StudentRegForm\StudentRegForm\bin\StudentRegForm.dll
+C:\Users\USER\documents\visual studio 2013\Projects\StudentRegForm\StudentRegForm\bin\StudentRegForm.pdb
+C:\Users\USER\documents\visual studio 2013\Projects\StudentRegForm\StudentRegForm\obj\Debug\StudentRegForm.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2013\Projects\StudentRegForm\StudentRegForm\obj\Debug\StudentRegForm.dll
+C:\Users\USER\documents\visual studio 2013\Projects\StudentRegForm\StudentRegForm\obj\Debug\StudentRegForm.pdb

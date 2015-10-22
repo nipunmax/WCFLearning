@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\bin\Debug\StudentHost.exe.config
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\bin\Debug\StudentHost.exe
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\bin\Debug\StudentHost.pdb
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\bin\Debug\StudentManagement.dll
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\bin\Debug\StudentManagement.pdb
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\obj\Debug\StudentHost.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\obj\Debug\StudentHost.exe
+C:\Users\USER\documents\visual studio 2013\Projects\StudentManagement\StudentHost\obj\Debug\StudentHost.pdb
